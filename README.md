@@ -1,42 +1,118 @@
-<h1 align="center">Hi 👋, I'm Hapis</h1>
-
+<!-- AESTHETIC BANNER -->
 <p align="center">
-I'm an Informatics student at UPN Veteran Jakarta, passionate about building robust, scalable web applications from concept to deployment. My journey in tech is defined by a hands-on approach and a drive to lead, turning ambitious ideas into reality.
+  <img src="https://i.ibb.co/c8NY3zP/banner-github.png" width="100%" />
 </p>
 
+<h1 align="center">Hi, I'm <strong>Fathi Fathan</strong> 👋</h1>
+<h3 align="center">Fullstack Web & Mobile Developer | Aesthetic & Modern Tech Enthusiast</h3>
+
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  I build elegant, high-performance, and scalable digital products — websites, mobile apps, dashboards, and modern user interfaces.  
+  Passionate about clean code, beautiful design, and delivering real impact through technology.
+</p>
+
+<br/>
+
+<!-- SOCIAL -->
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-## 🧩 Core Tech Stack
+## 🎨 Aesthetic Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,mdb,js,react,vue,next" /><br/><br/>
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=php,laravel,python" /><br/><br/>
+
+  <!-- Mobile Development -->
+  <img src="https://skillicons.dev/icons?i=flutter,dart" /><br/><br/>
+
+  <!-- Tools & Database -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,postman,figma,wordpress" />
 </p>
 
 ---
 
-## 📊 My GitHub Stats & Activity
+## ✨ Featured Projects (Based on Your GitHub)
+
+### 🚀 **1. Fullstack Laravel Tasks App**
+**Tech:** Laravel, PHP  
+CRUD system, modular architecture, clean backend structure.  
+🔗 Repo: `laravel-fathi-tasks`
+
+---
+
+### 📱 **2. Flutter Shopping App**
+**Tech:** Flutter, Dart  
+Shooping UI + state management + clean widgets.  
+🔗 Repo: `asistipemmob_shopping_flutter`
+
+---
+
+### 🎨 **3. Tailwind / HTML Landing Pages**
+**Tech:** HTML, CSS, Tailwind  
+Fast, responsive, aesthetic landing pages.  
+Repos:  
+- `footloose`  
+- `pondoku`  
+- `My-Tahfidz-Journey`  
+- `RS-harapan`  
+- `Harmony-Academy`
+
+---
+
+### 🌐 **4. Web Apps & UI Projects**
+**Tech:** Bootstrap, MDB, JS, PHP  
+Clean UI, form apps, and lightweight systems.
+
+---
+
+### 📦 **5. College & Personal Mini Projects**
+Mix of **Java**, **C**, **Python**, and small utility apps.  
+Always improving & learning fast.
+
+---
+
+## 📊 Aesthetic GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fathifathan&show_icons=true&theme=rose_pine&hide_border=true&border_radius=14" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=fathifathan&theme=rose_pine&hide_border=true&border_radius=14" />
 </p>
 
 <p align="center">
-  <img height="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathifathan&layout=compact&theme=rose_pine&hide_border=true&border_radius=14"/>
+</p>
+
+---
+
+## 🧁 About Me
+
+- 💡 I combine **clean aesthetics + strong engineering principles**  
+- 🚀 Experience in **Web Development, Mobile Development & UI Engineering**  
+- 🎨 Love building modern user interfaces with Tailwind, Sass, React, Vue  
+- 📱 Developing mobile apps using Flutter + Firebase  
+- 💼 Familiar with WordPress + Elementor for fast business deployment  
+- 🎯 Always learning — Laravel, Next.js, PostgreSQL, API systems  
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
+</p>
+
+<p align="center">
+  🌸 <i>"Code with clarity, design with purpose, build with passion."</i> 🌸
 </p>
