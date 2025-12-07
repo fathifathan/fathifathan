@@ -24,15 +24,11 @@
 
 <p align="center">
   <!-- Frontend -->
-  
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,react,vue,next" /><br/><br/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,react,vue,next" />
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=php,laravel,python" /><br/><br/>
-
+  <img src="https://skillicons.dev/icons?i=php,laravel,python" />
   <!-- Mobile Development -->
-  <img src="https://skillicons.dev/icons?i=flutter,dart" /><br/><br/>
-
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
   <!-- Tools & Database -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,postman,figma,wordpress" />
 </p>
