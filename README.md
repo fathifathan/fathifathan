@@ -1,6 +1,6 @@
 <!-- AESTHETIC BANNER -->
 <p align="center">
-  <img src="https://i.ibb.co/c8NY3zP/banner-github.png" width="100%" />
+  ![banner github](https://github.com/user-attachments/assets/fcee969d-e2f1-4897-81b1-ad966babb7e2)
 </p>
 
 <h1 align="center">Hi, I'm <strong>Fathi Fathan</strong> 👋</h1>
@@ -27,6 +27,7 @@
 
 <p align="center">
   <!-- Frontend -->
+  
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,mdb,js,react,vue,next" /><br/><br/>
 
   <!-- Backend -->
