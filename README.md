@@ -1,7 +1,4 @@
 <!-- AESTHETIC BANNER -->
-<p align="center">
-  (https://github.com/user-attachments/assets/5be77933-f336-42a2-a5ad-f941248fe29c)
-</p>
 
 <h1 align="center">Hi, I'm <strong>Fathi Fathan</strong> 👋</h1>
 <h3 align="center">Fullstack Web & Mobile Developer | Aesthetic & Modern Tech Enthusiast</h3>
