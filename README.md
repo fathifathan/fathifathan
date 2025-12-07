@@ -1,6 +1,6 @@
 <!-- AESTHETIC BANNER -->
 <p align="center">
-  ![banner github](https://github.com/user-attachments/assets/fcee969d-e2f1-4897-81b1-ad966babb7e2)
+  (https://github.com/user-attachments/assets/5be77933-f336-42a2-a5ad-f941248fe29c)
 </p>
 
 <h1 align="center">Hi, I'm <strong>Fathi Fathan</strong> 👋</h1>
