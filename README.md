@@ -25,7 +25,7 @@
 <p align="center">
   <!-- Frontend -->
   
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,mdb,js,react,vue,next" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,react,vue,next" /><br/><br/>
 
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=php,laravel,python" /><br/><br/>
