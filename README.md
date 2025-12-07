@@ -30,7 +30,7 @@
   <!-- Mobile Development -->
   <img src="https://skillicons.dev/icons?i=flutter,dart" />
   <!-- Tools & Database -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,postman,figma,wordpress" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,postman,figma,wordpress" />
 </p>
 
 ---
