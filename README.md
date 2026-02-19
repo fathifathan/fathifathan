@@ -35,7 +35,7 @@
 
 ---
 
-## ✨ Featured Projects (Based on Your GitHub)
+## ✨ Featured Projects
 
 ### 🚀 **1. Fullstack Laravel Tasks App**
 **Tech:** Laravel, PHP  
